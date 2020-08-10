@@ -3,6 +3,6 @@ A feature rich discord giveaway bot coded in JavaScript by using discord.js libr
 
 ### Features
 
-:tada: Self start after bot crash. 
-:tada: Save all the data in mongodb.
-:tada: Provide requirements section.
+* :tada: Self start after bot crash. 
+* :tada: Save all the data in mongodb.
+* :tada: Provide requirements section.
