@@ -6,7 +6,7 @@ import Client, {
     logger,  
 } from "./deps.ts";
 
-import configs from "./config.ts";
+import { configs } from "./configs.ts";
 import { Command, Argument, PermissionLevels } from "./src/types/commands.ts";
 import { importDirectory } from "./src/utils/helpers.ts";
 import { Monitor } from "./src/types/monitors.ts";
