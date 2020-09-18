@@ -4,9 +4,9 @@ import Client, {
     Guild,
     Intents,
     logger,  
-} from "./deps";
+} from "./deps.ts";
 
-import configs from "./config";
+import configs from "./config.ts";
 import { Command, Argument, PermissionLevels } from "./src/types/commands.ts";
 import { importDirectory } from "./src/utils/helpers.ts";
 import { Monitor } from "./src/types/monitors.ts";
